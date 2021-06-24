@@ -9,13 +9,7 @@
 
 <img src="./reference_image/main.png">
 
-## 팀원
 
-|이름|역할|
-|---|---|
-|<a>심재경</a>|📂 Crawling, Emotional Analysis|
-|<a href="https://github.com/ghis22130">김지수</a>|📂 DB, Word Similarity Analysis |
-|<a href="https://github.com/woogie-s">신현욱</a>|📄 Frontend, Word Similarity Analysis |
 
 <br>
 
