@@ -24,10 +24,13 @@ Train Data를 이용해 Word2Vec 모델을 적용시켰고, 이 후 Test Data로
 ![image](https://user-images.githubusercontent.com/78082118/123188343-d9607800-d4d6-11eb-8054-7a578a0fbc7c.png)
 
 ▲ 리뷰 상세보기
+![image](https://user-images.githubusercontent.com/78082118/123188496-175d9c00-d4d7-11eb-9a4d-bb4049b218ee.png)
 
 ▲ 감정 분석
+![image](https://user-images.githubusercontent.com/78082118/123188536-280e1200-d4d7-11eb-86c6-ccb137a92c33.png)
 
 ▲ 차트 시각화
+![image](https://user-images.githubusercontent.com/78082118/123188550-2e03f300-d4d7-11eb-9818-81617952fedc.png)
 
 개발 환경
 
